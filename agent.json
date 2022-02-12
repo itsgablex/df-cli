@@ -1,0 +1,54 @@
+{
+  "description": "",
+  "language": "en",
+  "shortDescription": "",
+  "examples": "",
+  "linkToDocs": "",
+  "displayName": "amaraatparaiso-prod",
+  "disableInteractionLogs": false,
+  "disableStackdriverLogs": false,
+  "googleAssistant": {
+    "googleAssistantCompatible": false,
+    "project": "",
+    "welcomeIntentSignInRequired": false,
+    "startIntents": [],
+    "systemIntents": [],
+    "endIntentIds": [
+      "521a4931-d518-4746-bc04-e8dc11cc34b1",
+      "4640877e-e8c9-41bb-963f-14dfa552e2a5",
+      "b821d05d-81a4-4b8f-850e-2085e3295804",
+      "3c4cb687-8707-464f-adbb-18f617e67d58",
+      "9e42ef6b-b21f-4930-8ac9-2a6845dc6eee"
+    ],
+    "voiceType": "VOICE_TYPE_UNSPECIFIED",
+    "capabilities": [],
+    "env": "",
+    "protocolVersion": "PROTOCOL_VERSION_UNSPECIFIED",
+    "autoPreviewEnabled": false,
+    "isDeviceAgent": false
+  },
+  "defaultTimezone": "America/Barbados",
+  "webhook": {
+    "url": "https://bot-webhook-dot-ambient-mystery-247715.uc.r.appspot.com/",
+    "username": "",
+    "headers": {
+      "Auth-Pwd": "sunshineewok3001"
+    },
+    "available": true,
+    "useForDomains": false,
+    "cloudFunctionsEnabled": false,
+    "cloudFunctionsInitialized": false
+  },
+  "isPrivate": true,
+  "mlMinConfidence": 0.3,
+  "supportedLanguages": [],
+  "enableOnePlatformApi": true,
+  "onePlatformApiVersion": "v2beta1",
+  "secondaryKey": "59bda7c4cbe149869cacedf7db9c2dbc",
+  "analyzeQueryTextSentiment": false,
+  "enabledKnowledgeBaseNames": [],
+  "knowledgeServiceConfidenceAdjustment": 0.0,
+  "dialogBuilderMode": false,
+  "baseActionPackagesUrl": "",
+  "enableSpellCorrection": false
+}
